@@ -19,5 +19,3 @@ app.listen(PORT, () =>
         `✅  API Server started: http://${HOST}:${PORT}/api/v1/endpoint`
     )
 );
-
-//testing
